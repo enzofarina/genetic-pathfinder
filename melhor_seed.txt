@@ -1,0 +1,4 @@
+Melhor seed: 4
+Custo terreno: 1808
+Tempo total: 1874.6524
+Custo combinado: 3682.6524
